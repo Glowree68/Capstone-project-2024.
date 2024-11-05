@@ -60,6 +60,14 @@ using the SQL queries to retrieve the total sales for each product category,find
 -  ![image](https://github.com/user-attachments/assets/8e90f978-58b3-4e34-ab3a-509bb33e7c33) Analying customer data using pivot tables to find subscription patterns.
  Calculate the average subscription duration and identify the most popular subscription types and Create any other interesting reports![image](https://github.com/user-attachments/assets/b3a6f1b6-91cb-415a-805a-c80b99204f2c)
 
+ **SQL QURIES; HOW IT IS USED ** ![image](https://github.com/user-attachments/assets/547325e3-1668-49d6-8433-e0c0fdf516b3) USING THE IMPLIED QUESTIONS;retrieve the total sales for each product category, find the number of sales transactions in each region,find the highest-selling product by total sales value,calculate total revenue per product.
+calculate monthly sales totals for the current year, find the top 5 customers by total purchase amount,calculate the percentage of total sales contributed by each region,identify products with no sales in the last quarter.
+
+![image](https://github.com/user-attachments/assets/e7597879-e650-472c-9708-c89f073a5b46) ![image](https://github.com/user-attachments/assets/aef8b638-07fa-4227-a50b-69c9cd3c5767)
+
+
+
+
 
 
 -  
