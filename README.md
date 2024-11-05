@@ -50,3 +50,18 @@ For instance, sales managers could see immediately if a region was underperformi
 **Conclusion: Insights That Drive Success**
 
 The new sales and customer data dashboard has revolutionized decision-making at Company lita. The analytic dashboard not only saves time but empowers every team to make smarter, data-backed decisions that align with company goals.
+
+samples of my worked poject using the pivot table,SQL and the power bi to analyse data.![image](https://github.com/user-attachments/assets/239eb0e2-a98d-4a41-ab66-69acfc4f1ed1) usiing excel to Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month,Using Excel formulas to calculate metrics such as average sales per product and total revenue by region.![image](https://github.com/user-attachments/assets/a5e6a24d-6f1d-49c1-8ef9-974c5c59a1b3)
+using the SQL queries to retrieve the total sales for each product category,find the number of sales transactions in each region.
+ find the highest-selling product by total sales,calculate total revenue per product,calculate monthly sales totals for the current year.
+ find the top 5 customers by total purchase amount,calculate the percentage of total sales contributed by each region, identify products with no sales in the last quarter.
+
+-  **Customer data**
+-  ![image](https://github.com/user-attachments/assets/8e90f978-58b3-4e34-ab3a-509bb33e7c33) Analying customer data using pivot tables to find subscription patterns.
+ Calculate the average subscription duration and identify the most popular subscription types and Create any other interesting reports![image](https://github.com/user-attachments/assets/b3a6f1b6-91cb-415a-805a-c80b99204f2c)
+
+
+
+-  
+
+-  
